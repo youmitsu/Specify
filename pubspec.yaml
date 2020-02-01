@@ -1,7 +1,6 @@
 name: specify
 description: It&#x27;s Flutter package named Specify.
 version: 0.0.1
-author: Yu Mitsuhori
 homepage: https://github.com/youmitsu/Specify
 
 environment:
