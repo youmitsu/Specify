@@ -1,8 +1,8 @@
 name: specify
 description: It&#x27;s Flutter package named Specify.
 version: 0.0.1
-author:
-homepage:
+author: Yu Mitsuhori
+homepage: https://github.com/youmitsu/Specify
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
